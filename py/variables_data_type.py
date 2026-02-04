@@ -21,6 +21,6 @@ print(type(is_female))
 
 
 
-c = celcius = 25 
+c = celcius = 30 
 f = c*9/5+32
 print (f)
