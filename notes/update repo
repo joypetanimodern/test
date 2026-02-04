@@ -1,3 +1,5 @@
+#make sure the file at root 
+
 git add .
 git commit -m "your_comment"
 git push
